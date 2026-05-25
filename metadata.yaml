@@ -1,5 +1,7 @@
 homepage: "https://impact.com"
 documentation: "https://github.com/newnorthdigital/impact-web-tag/blob/main/README.md"
 versions:
+  - sha: 0ad061e4825650656e3de26338a96d9ea09c8eff
+    changeNotes: "Embed vendor logo as 96x96 PNG thumbnail; add canonical BOM."
   - sha: 7f3545ed4519d2e325a410d03e032caf10d1b354
     changeNotes: "Initial release - Universal Tracking Tag, identify, and conversion tracking."
