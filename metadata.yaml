@@ -1,6 +1,8 @@
 homepage: "https://impact.com"
 documentation: "https://github.com/newnorthdigital/impact-web-tag/blob/main/README.md"
 versions:
+  - sha: e6a466917ef3d82c9383e856522178b97c10f5e9
+    changeNotes: "Rename displayName to 'Impact Tracking by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: 61db45423d83cb030671076827d802a99a1c2b60
     changeNotes: "Rename displayName to 'Impact Conversion Tracking by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: 0ad061e4825650656e3de26338a96d9ea09c8eff
