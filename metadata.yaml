@@ -1,6 +1,8 @@
 homepage: "https://impact.com"
 documentation: "https://github.com/newnorthdigital/impact-web-tag/blob/main/README.md"
 versions:
+  - sha: 61db45423d83cb030671076827d802a99a1c2b60
+    changeNotes: "Rename displayName to 'Impact Conversion Tracking by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: 0ad061e4825650656e3de26338a96d9ea09c8eff
     changeNotes: "Embed vendor logo as 96x96 PNG thumbnail; add canonical BOM."
   - sha: 7f3545ed4519d2e325a410d03e032caf10d1b354
