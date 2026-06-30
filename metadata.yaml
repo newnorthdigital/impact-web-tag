@@ -1,6 +1,8 @@
 homepage: "https://impact.com"
 documentation: "https://github.com/newnorthdigital/impact-web-tag/blob/main/README.md"
 versions:
+  - sha: 315bdfaf50b42297feea6560bd88b23e731b60d7
+    changeNotes: 'NND-badge icon and shortened display name (by New North).'
   - sha: e6a466917ef3d82c9383e856522178b97c10f5e9
     changeNotes: "Rename displayName to 'Impact Tracking by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: 61db45423d83cb030671076827d802a99a1c2b60
