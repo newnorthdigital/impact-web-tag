@@ -116,7 +116,7 @@ This template requests the following permissions:
 
 ## Author
 
-Built by [New North Digital](https://newnorth.digital?utm_source=github&utm_medium=gtm-template&utm_campaign=impact-web-tag).
+Created and maintained by [Freek Kampen](https://freekkampen.com) at [New North Digital](https://newnorth.digital?utm_source=github&utm_medium=gtm-template&utm_campaign=impact-web-tag).
 
 ## License
 
